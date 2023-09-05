@@ -10,12 +10,12 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "build": "export NODE_OPTIONS=--openssl-legacy-provider && gatsby build",
+    "build": "gatsby build",
     "clean": "rimraf public && rimraf .cache",
-    "dev": "export NODE_OPTIONS=--openssl-legacy-provider && gatsby develop",
+    "dev": "gatsby develop",
     "format": "prettier --write \"src/**/*.{ts,tsx,md}\"",
     "lint": "eslint src/**/*.{ts,tsx}",
-    "start": "export NODE_OPTIONS=--openssl-legacy-provider && npm run dev",
+    "start": "npm run dev",
     "test": "npm run type-check && npm run lint",
     "type-check": "tsc"
   },
