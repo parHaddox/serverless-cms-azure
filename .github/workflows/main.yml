@@ -11,9 +11,9 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 env:
-    RESOURCE_GROUP_NAME: rbcnorfolk_group
-    STORAGE_ACCOUNT_NAME: rbcnorfolk_group
-    OAUTH_FUNCTION_APP_NAME: rbcnorfolk
+    RESOURCE_GROUP_NAME: rbcnorfolk_org
+    STORAGE_ACCOUNT_NAME: rbcnorfolk_org
+    OAUTH_FUNCTION_APP_NAME: rbcnorfolkcms
     ORIGIN: www.rbcnorfolk.org
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -82,7 +82,7 @@ jobs:
         uses: Azure/cli@1.0.4
         with:
           # Specify the script here
-          inlineScript: az group create -n ${{ env.RESOURCE_GROUP_NAME }} --location UKSouth
+          inlineScript: az group create -n ${{ env.RESOURCE_GROUP_NAME }} --location eastus
 
       - name: Deploy Azure Resource Manager (ARM) Template
         id: deploy

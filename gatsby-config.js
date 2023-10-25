@@ -7,14 +7,14 @@ const netlifyCmsPath = {
 
 module.exports = {
   siteMetadata: {
-    title: 'Bob\'s Website',
+    title: 'Riverside Baptist Church Norfolk',
     description: '',
-    keywords: 'example gatsby serverless netlify',
-    siteUrl: 'https://serverlesscms.danielbass.dev',
+    keywords: 'Riverside Baptist Church Norfolk',
+    siteUrl: 'https://www.rbcnorfolk.org',
     author: {
-      name: 'Daniel Bass',
-      url: 'https://www.danielbass.dev',
-      email: 'me@danielbass.dev'
+      name: 'Chris Haddox',
+      url: 'https://www.chrishaddox.com',
+      email: 'resume@chrishaddox.com'
     }
   },
   plugins: [
