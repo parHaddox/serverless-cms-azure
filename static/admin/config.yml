@@ -2,7 +2,7 @@ backend:
   name: github
   branch: main
   repo: parHaddox/serverless-cms-azure
-  base_url:  https://rbcnorfolkcmscdn.azureedge.net/
+  base_url:  https://rbcnorfolkcms.azurewebsites.net
 
 media_folder: src/content/images/
 public_folder: /images
