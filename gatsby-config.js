@@ -10,7 +10,7 @@ module.exports = {
     title: 'Riverside Baptist Church Norfolk',
     description: '',
     keywords: 'Riverside Baptist Church Norfolk',
-    siteUrl: 'https://www.rbcnorfolk.org',
+    siteUrl: 'https://rbcnorfolkcmscdn.azureedge.net/',
     author: {
       name: 'Chris Haddox',
       url: 'https://www.chrishaddox.com',
