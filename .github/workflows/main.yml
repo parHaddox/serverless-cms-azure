@@ -14,7 +14,7 @@ env:
     RESOURCE_GROUP_NAME: rbcnorfolk_org
     STORAGE_ACCOUNT_NAME: rbcnorfolkorgae30
     OAUTH_FUNCTION_APP_NAME: rbcnorfolkcms
-    ORIGIN: rbcnorfolkcmscdn.azureedge.net
+    ORIGIN: www.rbcnorfolk.org
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
