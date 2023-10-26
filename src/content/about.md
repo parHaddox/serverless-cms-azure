@@ -3,6 +3,6 @@ title: About
 layout: page
 description: " "
 ---
-Bob's a developer from London. And he's actually called [Dan](https://www.danielbass.dev "Dan's Actual Website"). Please change this copy before you publish it on your website! 
+Chris is a developer from Norfolk, VA. I'm a technologist of sorts and am on a path to document all that I am learning in a fun and exciting way. Find my journey here [Dan](https://www.chrishaddox.com "Chris's Actual Website"). 
 
 This copy has been added from the CMS using a lovely rich text editor!
