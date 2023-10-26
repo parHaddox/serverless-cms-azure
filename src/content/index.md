@@ -3,8 +3,10 @@ title: Riverside Baptist Church
 layout: bloglisting
 description: " "
 ---
-Hi, I'm Chris and I'm excited to bring you an entirely serverless site, that itself is powered by an entirely serverless Content Management System (CMS). This means you can host a website for literally pennies, that is more secure and more scalable OOTB than anything from a conventional CMS (Wordpress etc), and still has a nice user friendy interface for someone to add content and generally build the site.
+Worship Service Sundays at 11:00 AM
 
-The only downside this site has is if you try and use it for very image heavy sites you may want to either change the Static Site Generator I am using from Gatsby to Hugo, or pay to use Gatsby Cloud Build to accelerate it. I've tried my best with various caching techniques, but it's just a weakness with this approach. Any suggestions and contributions welcome.
 
-Hero image by [Rafal Wilinski](https://unsplash.com/photos/aCV8s5_1eJQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+Riverside Baptist Church is a place where families, singles, young and old alike are all welcome.  We believe God has placed us here to serve the people of our community and to bring the Gospel of Jesus Christ around the world. Come and share in our vision and discover how the wonderful truths of the bible relate to everyday living.
+
+
+“For God so loved the world that He gave His only begotten son, that whosoever believeth in Him should not perish but have everlasting life.”          John 3:16
