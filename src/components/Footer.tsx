@@ -20,10 +20,7 @@ const Footer = () => {
   return (
     <div className={classes.footerSection}>
       <Typography>
-        © {now.getFullYear()} - Built by{' '}
-        <a className={classes.hiddenLink} href="https://www.danielbass.dev">
-          Daniel Bass
-        </a>
+        © {now.getFullYear()} - Riverside Baptist Church - Norfolk, VA
       </Typography>
     </div>
   )

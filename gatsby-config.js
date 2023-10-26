@@ -7,9 +7,9 @@ const netlifyCmsPath = {
 
 module.exports = {
   siteMetadata: {
-    title: 'Riverside Baptist Church Norfolk',
+    title: 'Riverside Baptist Church - Norfolk, VA',
     description: '',
-    keywords: 'Riverside Baptist Church Norfolk',
+    keywords: 'Riverside Baptist Church - Norfolk, VA',
     siteUrl: 'https://www.rbcnorfolk.org/',
     author: {
       name: 'Chris Haddox',
