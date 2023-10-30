@@ -4,4 +4,6 @@ layout: page
 description: " "
 ---
 
-Chris is a man of mystery. He accept's carrier pigeons, pull requests, and, strangely, emails to resume@chrishaddox.com
+5768 Sellger Dr Norfolk, Va 23502
+(757) 466-9461
+rbcorfolk.org
